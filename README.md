@@ -57,6 +57,7 @@ Esperamos que disfrutes utilizando Polybar con el tema Colorblocks. Si encuentra
 Pequeño ejemplo de cómo se ve el tema instalado:
 
 **Workspaces**
+
 ![workspaces](./img1.png)
 
 **Módulos** 
@@ -116,6 +117,7 @@ We hope you enjoy using Polybar with the Colorblocks theme. If you encounter any
 A small example of how the installed theme looks:
 
 **Workspaces**
+
 ![workspaces](./img1.png)
 
 **Modules**
