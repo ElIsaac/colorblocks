@@ -4,12 +4,13 @@
 - [Español](#instalación-de-polybar-colorblocks-para-manjaro-i3)
 - [English](#polybar-colorblocks-installation)
 
-## Instalación de Polybar Colorblocks para Manjaro i3
+## Instalación del tema Colorblocks en Polybar para Manjaro i3
 
 Este script de instalación simplifica el proceso de configuración de Polybar utilizando el tema Colorblocks en el entorno Manjaro i3. Sigue los pasos a continuación para instalar y configurar Polybar con el tema Colorblocks en tu sistema.
 
 ### Requisitos previos
 - [Polybar](https://github.com/polybar/polybar): Asegúrate de tener Polybar instalado en tu sistema antes de ejecutar este script.
+- [Rofi](https://github.com/davatorium/rofi): Necesitarás tener Rofi instalado en tu sistema. Este script utiliza Rofi para ciertas funciones.
 
 ### Instrucciones de instalación
 
@@ -59,6 +60,7 @@ Pequeño ejemplo de cómo se ve el tema instalado:
 ![workspaces](./img1.png)
 
 **Módulos** 
+
 ![Modules](./img.png)
 
 ## Polybar Colorblocks Installation
@@ -67,6 +69,7 @@ This installation script simplifies the process of configuring Polybar using the
 
 ### Prerequisites
 - [Polybar](https://github.com/polybar/polybar): Ensure that Polybar is installed on your system before running this script.
+- [Rofi](https://github.com/davatorium/rofi): You'll need to have Rofi installed on your system. This script uses Rofi for certain functions.
 
 ### Installation Instructions
 
@@ -116,4 +119,5 @@ A small example of how the installed theme looks:
 ![workspaces](./img1.png)
 
 **Modules**
+
 ![Modules](./img.png)
