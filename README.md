@@ -1,4 +1,4 @@
-# Polybar Colorblocks Installation
+# Polybar Colorblocks Theme for Manjaro i3
 
 **Index:**
 - [Español](#instalación-de-polybar-colorblocks-para-manjaro-i3)
