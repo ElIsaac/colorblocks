@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Color files
+# Color files 
 PFILE="$HOME/.config/polybar/colorblocks/colors.ini"
 RFILE="$HOME/.config/polybar/colorblocks/scripts/rofi/colors.rasi"
 
@@ -13,6 +13,9 @@ change_color() {
 	sed -i -e "s/shade1 = #.*/shade1 = $SH1/g" $PFILE
 	sed -i -e "s/shade2 = #.*/shade2 = $SH2/g" $PFILE
 	sed -i -e "s/shade3 = #.*/shade3 = $SH3/g" $PFILE
+	if [ $# -gt 0 ]; then
+        	SH3="$1"
+    	fi	
 	sed -i -e "s/shade4 = #.*/shade4 = $SH4/g" $PFILE
 	sed -i -e "s/shade5 = #.*/shade5 = $SH5/g" $PFILE
 	sed -i -e "s/shade6 = #.*/shade6 = $SH6/g" $PFILE
